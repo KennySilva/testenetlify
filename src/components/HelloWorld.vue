@@ -10,7 +10,7 @@
       </v-flex>
 
       <v-flex mb-5 xs12>
-        <h2 class="headline font-weight-bold mb-3">Estefânio Silva</h2>
+        <h2 class="headline font-weight-bold mb-3">Estefânio Pereira Silva</h2>
 
         <v-layout justify-center>
           <a
